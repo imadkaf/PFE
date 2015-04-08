@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eZ Publish 5
 
 ## What is eZ Publish?
@@ -59,3 +60,6 @@ Copyright (C) 1999-2014 eZ Systems AS. All rights reserved.
 
 ## LICENSE
 http://www.gnu.org/licenses/gpl-2.0.txt GNU General Public License v2
+=======
+# PFE
+>>>>>>> d9ca0951a6a23aaee531554d47035f888e0231c2
