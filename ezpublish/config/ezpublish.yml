@@ -1,0 +1,66 @@
+doctrine:
+    dbal:
+        connections:
+            eng_repository_connection:
+                driver: pdo_mysql
+                host: localhost
+                user: root
+                password: pouf
+                dbname: ezpublish5
+                charset: UTF8
+                port: '3306'
+ezpublish:
+    imagemagick:
+        enabled: false
+    repositories:
+        eng_repository:
+            engine: legacy
+            connection: eng_repository_connection
+    siteaccess:
+        default_siteaccess: eng
+        list:
+            - ezdemo
+            - eng
+            - fre
+            - ezdemo_admin
+        groups:
+            ezdemo_site_group:
+                - ezdemo
+                - eng
+                - fre
+                - ezdemo_admin
+        match:
+            URIElement: '1'
+    system:
+        ezdemo_site_group:
+            repository: eng_repository
+            var_dir: var/ezdemo_site
+        eng:
+            languages:
+                - eng-GB
+            session:
+                name: eZSESSID
+        ezdemo_admin:
+            legacy_mode: true
+            languages:
+                - eng-GB
+                - fre-FR
+        ezdemo:
+            languages:
+                - eng-GB
+                - fre-FR
+            session:
+                name: eZSESSID
+        fre:
+            languages:
+                - fre-FR
+                - eng-GB
+            session:
+                name: eZSESSID
+stash:
+    caches:
+        default:
+            drivers:
+                - FileSystem
+            inMemory: true
+            registerDoctrineAdapter: false

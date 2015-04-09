@@ -1,0 +1,2244 @@
+[ Nov 16 2014 14:36:34 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/template/compiled is not a folder
+[ Nov 16 2014 14:36:34 ] [] eZDir::recursiveDelete:
+The path: var/cache/override is not a folder
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/autoloads/ezcreateclasslistgroups.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/autoloads/eztemplateautoload.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/classes/ezwtservercallfunctions.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/settings/site.ini.append.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/settings/module.ini.append.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/settings/websitetoolbar.ini in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/settings/design.ini.append.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/settings/ezjscore.ini.append.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/modules/websitetoolbar/websitetoolbar.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/modules/websitetoolbar/sort.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/modules/websitetoolbar/module.php in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/cat-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/dan-DK/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/swe-SE/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/ser-SR/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/cze-CZ/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/dut-NL/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/fin-FI/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/jpn-JP/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/pol-PL/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/nor-NO/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/ger-DE/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/cro-HR/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/fre-FR/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/chi-CN/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/esl-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/chi-TW/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/ita-IT/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/por-BR/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/translations/untranslated/translation.ts in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/doc/changelogs/1.2/CHANGELOG-1.1-0-to-1.2-0 in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/stylesheets/websitetoolbar.css in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/javascript/ezwtsortdd.js in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-replace.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-translation.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-preview-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-export-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-ml.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-move.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-br.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ez_logo_white_long.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-oo-logo.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-replace-disabled.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-exit.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-exit-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-publish.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-objectstates.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-sort.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/dark_back.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-versions.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-remove-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-bc.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-remove.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations-disabled.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-move.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-import.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-remove.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-translation-disabled.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-bl.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-versions-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-sort.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-add_translation-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-import-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-mc.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-preview.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-admin.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/diagonal_pattern.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-publish-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-preview.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-objectstates.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-mr.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-tl.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-export.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-new.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-logo.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-new-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-tr.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-oo-logo.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-button-bg.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-create.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-logo.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-url.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-url.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-versions.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-tc.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-export.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-replace.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-replace-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-move-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-import.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-add_translation.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ez_logo_white_full.png in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations-disabled.gif in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/website_toolbar.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/website_toolbar_edit.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/website_toolbar_versionview.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/logo.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/sort.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/link.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/object_states.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/floating_toolbar.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/standard/templates/parts/websitetoolbar/help.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/ezdemo/templates/content/datatype/edit/ezdate.tpl in write mode
+[ Mar 24 2015 16:40:07 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezwt/design/ezdemo/templates/content/datatype/edit/ezdatetime.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/autoloads/ezsrtemplateoperators.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/autoloads/eztemplateautoload.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/share/db_schema.dba in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/classes/ezsrratingobjecttreenode.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/classes/ezsrratingfilter.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/classes/ezsrratingdataobject.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/classes/ezsrratingobject.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/classes/ezsrserverfunctions.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/patch/extended_attribute_group_by.diff in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/dbschema.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/site.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/extendedattributefilter.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/content.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/design.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/ezjscore.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/settings/datatype.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/cat-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/dut-NL/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/jpn-JP/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/ger-DE/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/cro-HR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/fre-FR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/esl-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/ita-IT/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/por-BR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/translations/untranslated/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/sql/postgresql/postgresql.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/sql/oracle/oracle.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/sql/mysql/mysql.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/datatypes/ezsrrating/ezsrratingtype.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/stylesheets/star_rating.css in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/images/star.gif in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/javascript/ezstarrating_jquery.js in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/javascript/ezstarrating_yui3.js in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/update/database/postgresql/1.5/dbupdate-1.4-to-1.5.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/images/silk/blankstar.png in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/images/silk/halfstar.png in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/images/silk/star.png in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/templates/class/datatype/view/ezsrrating.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/templates/class/datatype/edit/ezsrrating.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/templates/content/datatype/view/ezsrrating.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezstarrating/design/standard/templates/content/datatype/edit/ezsrrating.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/share/db_schema.dba in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/classes/ezgmaplocation.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/classes/ezgmllocationfilter.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/dbschema.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/site.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/extendedattributefilter.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/content.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/design.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/ezgmaplocation.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/settings/datatype.ini.append.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/cat-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/jpn-JP/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/pol-PL/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/nor-NO/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/ger-DE/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/cro-HR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/fre-FR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/esl-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/ita-IT/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/por-BR/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/translations/untranslated/translation.ts in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/sql/postgresql/postgresql.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/sql/oracle/oracle.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/sql/mysql/mysql.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/datatypes/ezgmaplocation/ezgmaplocationtype.php in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/update/database/oracle/1.5/dbupdate-1.4-to-1.5.sql in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/design/standard/templates/class/datatype/view/ezgmaplocation.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/design/standard/templates/class/datatype/edit/ezgmaplocation.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/design/standard/templates/content/datatype/view/ezgmaplocation.tpl in write mode
+[ Mar 24 2015 16:40:15 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezgmaplocation/design/standard/templates/content/datatype/edit/ezgmaplocation.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/ezred5streamlist.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/ezpagelink.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/ezunserialize.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/ezfeedreader.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/eztemplateautoload.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/autoloads/ezjson.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/share/db_schema.dba in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/share/db_data.dba in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/extras/flash_video_list.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/cronjobs/ezflowupdate.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/cronjobs/ezflowcleanup.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowajaxcontent.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowservercallfunctions.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezpageblock.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezhttpcachemanagerinterface.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezsquidcachemanager.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezpageblockitem.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowpool.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowfetchinterface.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowblock.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezhttpcachemanager.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowpoolitem.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezpage.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezpagezone.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/ezflowoperations.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/squid.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/dbschema.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/site.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/workflow.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/admininterface.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/websitetoolbar.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/block.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/module.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/content.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/image.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/design.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/http.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/zone.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/browse.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/ezjscore.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/cronjob.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/timeline.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/menu.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/ezflow.ini in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/settings/upload.ini.append.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/flash/embed.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/flash/module.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/get.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/push.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/function_definition.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/timeline.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/functioncollection.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/block.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/preview.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/module.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/request.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/modules/ezflow/zone.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/cat-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/swe-SE/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/jpn-JP/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/ger-DE/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/cro-HR/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/fre-FR/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/esl-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/ita-IT/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/por-BR/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/translations/untranslated/translation.ts in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/sql/postgresql/postgresql.sql in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/sql/common/democontent.sql in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/sql/oracle/oracle.sql in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/sql/mysql/mysql.sql in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/fetches/ezflowkeywordsfetch.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/fetches/ezflowmcfetch.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/fetches/ezflowlatestcontent.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/classes/fetches/ezflowlatestobjects.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/datatypes/ezpage/ezpagetype.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/eventtypes/event/ezpageswap/ezpageswaptype.php in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/2.1/CHANGELOG-2.0-0-to-2.1-0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/1.1/CHANGELOG-1.0-0-to-1.1-0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/2.0/CHANGELOG-1.1-0-to-2.0-0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/2.2/CHANGELOG-2.1-0-to-2.2-0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/2.3/CHANGELOG-2.2-0-to-2.3-0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/doc/changelogs/2.4/CHANGELOG-2.3.0-to-2.4.0 in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/stylesheets/scheduledialog.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/javascript/ezajaxsearch.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/javascript/ezpushtoblock.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/javascript/blocktools.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/javascript/zonetools.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/javascript/scheduledialog.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/stylesheets/iphone.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/images/iphone-site-logo.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/images/bluebutton.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/images/disclosure.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/templates/page_footer.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/templates/pagelayout.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/stylesheets/ezflow.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/flash/flash_player.swf in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/flash/broadcaster.swf in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/flash/streaming.swf in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/pagelayout.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/ezflow.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/core.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/search-input-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/back-ico.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/input-img-next.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/search_button.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/page-bg.jpg in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/lang-li-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/footer-logo.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/topmenu-li-sel-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ez-logo.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/topmenu-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-br.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/button-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/item-bullet.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/feedback_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/topmenu-sep.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-tl.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/input-img-prev.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/links-corner-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/tab_container_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/th_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/button_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/li-bullet.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/feedback_bg_general.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/links-bor-cont-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/path-sep.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/links-li-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/lang-li-curr-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-tr.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/links-corner-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/path-a-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-bl.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/javascript/prototype.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/javascript/insertmedia.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/javascript/ezflgmapview.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/page_footer.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/flash_demo.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/page_header.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/node/ezflsubitemscontextmenu.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/node/ezflcontextmenu.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/node/ezflcontextsubmenu.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/2zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/2zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/3zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/4zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/3zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/callforactionlayout.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/globalzonelayout.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/zone/2zoneslayout3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/page/push.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/page/block.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/page/preview.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/page/zone.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/parts/zone_block.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/parts/zone_block_top.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/stylesheets/ezpage/ezpage.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/block_up.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/expand.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/clock_ico.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/block_down.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/collapse.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/images/ezpage/block_del.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/templates/page/push.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/timeline/timeline.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/browsers/ie5.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/browsers/ie7lte.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/stylesheets/ezpage/ezpage.css in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/col-sep.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style3-box-inside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-br.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-tl.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-tr.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style1/border-bl.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/tick-start.gif-bak in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/tick-start.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/arrow_up.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/arrow_down.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/sprite.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/slider-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/bg-fader.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/tick.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/thumb-n.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/tick-end.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/timeline/loading.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style4/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style4/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style4/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-mainstory/mainstory-var2-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-tl.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-tr.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-inside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-push.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-timeline.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-push.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/websitetoolbar/ezwt-icon-timeline.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style4-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-inside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-2items/more.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-2items/bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-5items/top-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style2/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/main-story-2/img-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/main-story-2/header-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style6-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-3items/top-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-3items/arrow.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-3items/sep.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-3items/header-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-content.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style5-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/icons/tip_icon.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/sep-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-inside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/sep-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-mc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-inside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style3/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style3/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/border-box-style3/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-itemlist/ul-bullet.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-itemlist/header-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-itemlist/block-content-bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style1-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-feedreader/h1-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-feedreader/a-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-feedreader/con-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-type-feedreader/sep-bg.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-bc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-bl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-tc.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-tl.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-br.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-ml.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-tr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/block-style2-box-outside/border-mr.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/block_up.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/expand.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/block_header_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/block_content_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/clock_ico.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/block_down.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/button_bg.png in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/collapse.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/images/ezpage/block_del.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/javascript/timeline/timeline.js in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/2zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/2zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/3zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/4zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/3zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/callforactionlayout.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/globalzonelayout.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/zone/2zoneslayout3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/extra/timeline.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/parts/extra_info.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/parts/flash_player_embed_code.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/parts/flash_player.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/callforaction_layout.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/2zones_layout3.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/2zones_layout1.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/globalzone_layout.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/3zones_layout1.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/2zones_layout2.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/3zones_layout2.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/images/ezpage/thumbnails/4zones_layout1.gif in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/node/view/view.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/block/view/view.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/block/edit/edit.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/templates/node/view/full.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/templates/content/collectedinfo/poll.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/embed/image.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/video.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/gallery1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/vertically_listed_items.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/3_items.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/poll.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/block/flash_recorder.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/full/image.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/override/templates/line/article.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/templates/content/parts/add_to_block.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/override/templates/edit/frontpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/parts/websitetoolbar/push.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/templates/parts/websitetoolbar/timeline.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/embed/flash_player.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/main_story1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/4_items2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/video.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/feed_reader.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/2_items1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/itemlist1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/search.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/dynamic_3_items1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/gallery1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/banner2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/multimediacarousel.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/itemlist2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/4_items1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/keyword.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/4_items3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/2_items2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/main_story3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/3_items1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/gmap.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/tag_cloud.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/3_items3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/geo_located_content.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/banner1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/5_items1.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/poll.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/main_story2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/3_items2.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/online_users.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/ads.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/flash_recorder.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/itemlist3.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/demo_block.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/top_rated.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block/latest_content.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/edit/frontpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/full/frontpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/full/flash_player.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/full/flash_recorder.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block_item/article.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block_item/comment.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/ezflow/override/templates/block_item/image.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/class/datatype/view/ezpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/class/datatype/edit/ezpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/content/datatype/edit/ezpage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/standard/templates/workflow/eventtype/edit/event_ezpageswap.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/iphone/templates/content/datatype/view/ezimage.tpl in write mode
+[ Mar 24 2015 16:40:16 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezflow/design/admin/override/templates/content/parts/add_to_block_frontpage.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/autoloads/eztagcloud.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/autoloads/ezarchive.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/autoloads/ezpagedata.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/autoloads/eztemplateautoload.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/autoloads/ezkeywordlist.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/site.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/websitetoolbar.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/ezxml.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/content.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/image.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/design.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/odf.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/block.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/template.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/menu.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/ezoe_attributes.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/settings/timeline.ini.append.php in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/cat-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/dan-DK/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/swe-SE/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/ser-SR/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/cze-CZ/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/dut-NL/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/fin-FI/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/jpn-JP/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/pol-PL/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/nor-NO/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/ger-DE/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/fre-FR/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/chi-CN/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/esl-ES/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/chi-TW/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/ita-IT/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/por-BR/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/translations/untranslated/translation.ts in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/packages/5.0/call_to_action-1.0-1.ezpkg in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/packages/5.0/call_to_action_feedback-1.0-1.ezpkg in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/sql/common/democontent.sql in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/flash/video-js.swf in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/bootstrap.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/responsive.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/print.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/video.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/ezflow.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/star_rating.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/comment.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/fg-selected.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/edit.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/video-icon.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/rss-icon.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/bgr-header.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/bgr-extra-navi.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/back-button-16x16.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/edit-infobox-ico.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/user.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/calendar_icon.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/star.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ez-sprite.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/video-js.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/logo-ez.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/trash.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/trash-infobox-ico.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/toggle_class.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/init_ua.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/video.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/ezgallery.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/insertmedia.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/ezgallerynavigator.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/ezsimplegallery.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/ezflyout.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/handle_transition.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/javascript/heightresize.js in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_topmenu.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_extramenu.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_footer.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/mobile_pagelayout.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_footer_script.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/link.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_header.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_mainarea.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_head_script.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_head_style.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_header_logo.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_header_links.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_header_languages.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/canonical_link.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_header_searchbox.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/pagelayout.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_toolbar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_leftmenu.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_head.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/page_toppath.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/tables.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/hero-unit.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/utilities.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/simplegallery.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/website-toolbar.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/carousel.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/buttons.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/bootstrap.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/sprites.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/labels.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/close.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/navs.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/variables.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/pager.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/general-content.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/layouts.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/popovers.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/modals.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/forms.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/navbar.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/grid.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/fullgallery.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/pagination.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/code.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/reset.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/breadcrumbs.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/type.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/button-groups.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/accordion.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/star-rating.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/comments.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/responsive.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/mixins.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/alerts.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/blocks.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/scaffolding.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/tooltip.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/progress-bars.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/wells.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/thumbnails.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/component-animations.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/less/dropdowns.less in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/ezdhtml/toolbar.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/stylesheets/ezpage/ezpage.css in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/websitetoolbar/ezwt-icon-remove-rss.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/websitetoolbar/ezwt-icon-rss.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/websitetoolbar/ezwt-icon-rss-remove.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/websitetoolbar/ezwt-icon-rss-add.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/anchor_image.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/mergecell.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/splitcell.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/bold.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/object.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/copy.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/object_insert.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/mrgcell.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/inscol.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/link.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/insrow.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/objectimage.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/literal.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/redo.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/center.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/customtag.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/find.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/indent.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/strike.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/media.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/reduce_indent.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/underline.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/table.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/delrow.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/ezicon.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/paste.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/special.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/anchor.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/help.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/delcol.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/undo.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/object_insert.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/spltcell.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/image.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/cut.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/customtag_insert.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/numlist.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/form.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/file.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/italic.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezdhtml/bullist.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/icons/pdf_icon.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/icons/tip_icon.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/icons/rss_icon.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/block_up.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/expand.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/block_header_bg.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/block_content_bg.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/clock_ico.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/block_down.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/button_bg.png in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/collapse.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/images/ezpage/block_del.gif in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/ezodf/export.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/ezodf/browse_place.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/tagcloud/tagcloud.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/notification/addingresult.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/notification/settings.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/simplified_treemenu/show_simplified_menu.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/removeobject.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/footer/links.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/footer/address.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/footer/latest_news.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/ezinfo/about.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/3zoneslayout1.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/3zoneslayout2.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/globalzonelayout.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout3.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/edit.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/edit_attribute.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/advancedsearch.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/pendinglist.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/browse_mode_list.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/search.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/keyword.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/edit_languages.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/history.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/edit_draft.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/tipafriend.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/browse.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/draft.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/full/event_view_calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/full/event_view_program.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/extra_info.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/display_related_content.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/social_buttons.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/related_content.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/path.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/state/assign.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/orderlist.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/orderview.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/userregister.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/wishlist.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/confirmorder.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/basket.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/shop/customerorderview.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/menu/double_top.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/menu/flat_top.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/menu/flat_left.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/success.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/edit.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/password.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/register.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/forgotpassword.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/activate.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/user/login.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/rss/edit_import.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/rss/edit_export.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/rss/list.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/comment/view/comment_item.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/line.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/embed.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/related_product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/sitemap.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/infobox.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/tagcloud.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/listitemnews.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/full.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/node/view/productitem.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/view/billboard.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/view/versionview.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/collectedinfomail/form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/collectedinfomail/feedback.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/collectedinfo/poll.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/collectedinfo/form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/websitetoolbar/rss.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/image/display_related_content.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/image/related_content.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/blog/extra_info.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/blog/calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/article/comments.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/article/star_rating.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/article/tip_a_friend.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/article/page_navigator.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/parts/article/article_index.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/billboard/flash.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/billboard/banner.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/itemized_subtree_items.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/horizontally_listed_sub_items.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/flash.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/real_video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/file.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/forum.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/banner.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/windows_media.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/vertically_listed_sub_items.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/poll.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/highlighted_object.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/folder_products.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/quicktime.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/itemized_sub_items.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/event_calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/gallery.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed/folder.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/banner_external.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/feed_reader.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_4cols_2rows.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/campaign.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/main_story_background_image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/main_story_highlighted.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/tag_cloud.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/banner_internal.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_2cols_2rows.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_4rows.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/item_list.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_3cols_1row.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_4cols_1row.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/poll.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_2rows.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/highlighted_item.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/banner_code.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/content_grid_3cols_2rows.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block/gallery.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/edit/forum_reply.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/edit/file.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/edit/forum_topic.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/edit/landing_page.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/edit/comment.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/gallery_item/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/galleryslide/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/listitem/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/listitem/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/embed-inline/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/forums.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/call_to_action.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/link.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/infobox.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/geo_article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/forum_reply.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/flash.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/real_video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/file.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/forum.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/banner.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/windows_media.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/article_mainpage.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/forum_topic.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/poll.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/call_to_action_feedback.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/blog_post.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/comment.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/quicktime.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/event.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/wiki_page.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/multicalendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/article_subpage.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/silverlight.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/blog.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/event_calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/gallery.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/full/folder.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/forum.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/wiki_page.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/itemized_sub_items.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/event_calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/gallery.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/itemizedsubitems/folder.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/collectedinfomail/call_to_action.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/forums.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/link.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/infobox.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/geo_article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/forum_reply.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/flash.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/real_video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/file.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/forum.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/banner.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/windows_media.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/article_mainpage.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/forum_topic.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/poll.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/blog_post.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/comment.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/quicktime.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/event.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/wiki_page.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/multicalendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/article_subpage.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/silverlight.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/blog.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/event_calendar.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/gallery.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/line/folder.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/galleryline/flash_player.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/galleryline/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/horizontallylistedsubitems/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/horizontallylistedsubitems/event.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/horizontallylistedsubitems/product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/horizontallylistedsubitems/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item/call_to_action.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item/comment.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/block_item/image.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/gallery_viewer/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/admin/override/templates/admin_preview/article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezmedia.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezprice.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezkeyword.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezmultioption.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezauthor.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezbinaryfile.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/view/ezgmaplocation_article.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/collect/ezstring_feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/collect/eztext_feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/collect/ezemail_feedback_form.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/edit/forum_topic.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/ezxmltext/factbox.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/ezxmltext/table_cols.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/ezxmltext/quote.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/ezxmltext/table_comparison.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/override/templates/datatype/ezxmltext/children_menu.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/notification/handler/ezsubtree/settings/edit.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/notification/handler/ezgeneraldigest/settings/edit.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/video.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/tr.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl in write mode
+[ Mar 24 2015 16:40:17 ] [192.168.56.1] eZFileHandler::copy:
+Unable to open destination file extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/separator.tpl in write mode
+[ Mar 24 2015 16:41:50 ] [192.168.56.1] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 16:42:11 ] [192.168.56.1] index:
+Undefined module: css
+[ Mar 24 2015 16:42:11 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /css/3c5fbcb.css
+[ Mar 24 2015 16:42:11 ] [192.168.56.1] index:
+Undefined module: js
+[ Mar 24 2015 16:42:11 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /js/2f63513.js
+[ Mar 24 2015 16:44:45 ] [192.168.56.1] eZImageManager::createAliasFromINI:
+No such group productimage in ini file image.ini
+[ Mar 24 2015 16:47:10 ] [192.168.56.1] eZImageManager::createAliasFromINI:
+No such group productimage in ini file image.ini
+[ Mar 24 2015 16:48:50 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 16:48:51 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 16:48:51 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 16:51:05 ] [192.168.56.1] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 16:51:28 ] [192.168.56.1] eZImageManager::createAliasFromINI:
+No such group productimage in ini file image.ini
+[ Mar 24 2015 17:32:01 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:32:01 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:32:14 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:32:14 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:33:21 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:33:22 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:33:23 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:33:23 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:33:38 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:33:38 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:35:29 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:35:29 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:35:30 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:35:30 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /index.php/hello/imad
+[ Mar 24 2015 17:35:53 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:35:53 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:36:34 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:36:34 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:36:36 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:36:36 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:41:09 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 17:41:09 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 17:41:09 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 17:43:44 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 17:44:14 ] [192.168.56.1] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 17:44:22 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:44:22 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /ezdemo/hello/imad
+[ Mar 24 2015 17:44:34 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:44:34 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /ezdemo/hello/imad
+[ Mar 24 2015 17:50:58 ] [192.168.56.1] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 17:50:58 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:50:58 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /ezdemo/hello/imad
+[ Mar 24 2015 17:51:04 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:51:04 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:51:22 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:51:22 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 17:58:14 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 17:58:14 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /eng/hello
+[ Mar 24 2015 18:03:24 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 18:03:24 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /eng/hello/imad
+[ Mar 24 2015 18:08:14 ] [192.168.56.1] index:
+Undefined module: hello
+[ Mar 24 2015 18:08:14 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /hello/imad
+[ Mar 24 2015 18:10:37 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 18:10:38 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:10:38 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:11:02 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 18:11:02 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:11:02 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:11:17 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:11:17 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:11:57 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 18:11:57 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:11:57 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:16:37 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:16:37 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:16:57 ] [] eZExtension::activeExtensions:
+Extension 'ezcommentsbundle' does not exist, looked for directory 'extension/ezcommentsbundle'
+[ Mar 24 2015 18:16:57 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/template/compiled is not a folder
+[ Mar 24 2015 18:16:57 ] [] eZDir::recursiveDelete:
+The path: var/ezdemo_site/cache/override is not a folder
+[ Mar 24 2015 18:31:43 ] [192.168.56.1] index:
+Undefined module: phpmyadmin
+[ Mar 24 2015 18:31:44 ] [192.168.56.1] error/view.php:
+Error ocurred using URI: /phpmyadmin
