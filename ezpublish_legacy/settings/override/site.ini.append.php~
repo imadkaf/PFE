@@ -1,0 +1,10 @@
+<?php /* #?ini charset="utf-8"?
+
+[RegionalSettings]
+Locale=fre-FR
+TextTranslation=enabled
+
+[ExtensionSettings]
+ActiveExtensions[]=ezgmaplocation
+ActiveExtensions[]=ezdemo
+*/ ?>
