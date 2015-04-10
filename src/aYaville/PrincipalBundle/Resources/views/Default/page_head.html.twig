@@ -1,0 +1,17 @@
+{#
+    Defining page title based on current content name, if available
+    See full/blog_post.html.twig for an example of customization
+#}
+{% if content is defined and title is not defined %}
+    {% set title = ez_content_name( content ) %}
+{% endif %}
+
+<title>Saint-Fulgent</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+
+<link rel="shortcut icon" href="{{ asset( "img/favicon.png" ) }}">
+
+{#<link rel="Shortcut icon" href="{{ asset( "/design/standard/images/favicon.ico" ) }}" type="image/x-icon"/>
+#}
