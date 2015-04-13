@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="unsupported-ie ie" lang="{{ app.request.locale }}"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="{{ app.request.locale }}"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="{{ app.request.locale }}"><!--<![endif]-->
+<head>
+    <link href="{{ asset('bundles/ayalineayaville/css/style.css') }}" rel="stylesheet" >
+    <link href="{{ asset('bundles/ayalineayaville/css/Iconfont.css') }}" rel="stylesheet" >
+
+    <link href="{{ asset('bundles/ayalineayaville/css/bootstrap.min.css') }}" rel="stylesheet" >
+
+</head>
+<body>
+
+
+{% block menu %}
+
+{{ include('aYalineaYavilleBundle::parts/in_one_click_menu.html.twig') }}
+
+{% endblock %}
+
+<br/>
+
+
+{% block footer %}
+    {{ include('aYalineaYavilleBundle::parts/footer.html.twig') }}
+{% endblock %}
+
+
+</body>
+</html>

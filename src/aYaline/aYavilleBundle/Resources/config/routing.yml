@@ -1,0 +1,7 @@
+a_yalinea_yaville_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: aYalineaYavilleBundle:Default:index }
+
+a_yalinea_yaville_layout:
+    path:     /footer
+    defaults: { _controller: aYalineaYavilleBundle:Default:layout }

@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "Iconfont";
+  src: url("../fonts/Iconfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+.iconfont-cadena:before, .iconfont-vcard:before, .iconfont-contact:before, .iconfont-world:before, .iconfont-baby:before, .iconfont-building:before, .iconfont-bulb:before, .iconfont-trash:before, .iconfont-lock:before, .iconfont-zoom:before, .iconfont-pdf:before, .iconfont-play:before, .iconfont-plus:before, .iconfont-calendar:before, .iconfont-download:before, .iconfont-printer:before, .iconfont-share:before, .iconfont-star:before, .iconfont-youtube:before, .iconfont-next:before, .iconfont-hands:before, .iconfont-caret-down:before, .iconfont-caret-up:before, .iconfont-previous:before {
+  display: inline-block;
+  font-family: "Iconfont";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: inherit;
+  -webkit-font-smoothing: antialiased; }
+
+/*.iconfont-cadena:before {
+  content: "\E001"; }
+
+.iconfont-vcard:before {
+  content: "\E002"; }
+
+.iconfont-contact:before {
+  content: "\E003"; }
+
+.iconfont-world:before {
+  content: "\E004"; }
+
+/*.iconfont-baby:before {
+  content: "\E005"; }
+
+.iconfont-building:before {
+  content: "\E006"; }
+
+.iconfont-bulb:before {
+  content: "\E007"; }
+
+.iconfont-trash:before {
+  content: "\E008"; }*/
+
+.iconfont-lock:before {
+  content: "\E009"; }
+
+.iconfont-zoom:before {
+  content: "\E00A"; }
+
+.iconfont-pdf:before {
+  content: "\E00B"; }
+
+.iconfont-play:before {
+  content: "\E00C"; }
+
+.iconfont-plus:before {
+  content: "\E00D"; }
+
+.iconfont-calendar:before {
+  content: "\E00E"; }
+
+.iconfont-download:before {
+  content: "\E00F"; }
+
+.iconfont-printer:before {
+  content: "\E010"; }
+
+.iconfont-share:before {
+  content: "\E011"; }
+
+.iconfont-star:before {
+  content: "\E012"; }
+
+.iconfont-youtube:before {
+  content: "\E013"; }
+
+.iconfont-next:before {
+  content: "\E014"; }
+
+/*.iconfont-hands:before {
+  content: "\E015"; }*/
+
+.iconfont-caret-down:before {
+  content: "\E016"; }
+
+.iconfont-caret-up:before {
+  content: "\E017"; }
+
+.iconfont-previous:before {
+  content: "\E018"; }

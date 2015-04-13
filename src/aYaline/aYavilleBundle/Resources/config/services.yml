@@ -1,0 +1,4 @@
+services:
+#    a_yalinea_yaville.example:
+#        class: aYaline\aYavilleBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
