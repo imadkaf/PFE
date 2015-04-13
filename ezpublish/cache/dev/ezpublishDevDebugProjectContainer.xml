@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <container xmlns="http://symfony.com/schema/dic/services" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
   <parameters>
-    <parameter key="kernel.root_dir">/var/www/ezpublish/ezpublish</parameter>
+    <parameter key="kernel.root_dir">/var/www/ayaville/ezpublish</parameter>
     <parameter key="kernel.environment">dev</parameter>
     <parameter key="kernel.debug">true</parameter>
     <parameter key="kernel.name">ezpublish</parameter>
-    <parameter key="kernel.cache_dir">/var/www/ezpublish/ezpublish/cache/dev</parameter>
-    <parameter key="kernel.logs_dir">/var/www/ezpublish/ezpublish/logs</parameter>
+    <parameter key="kernel.cache_dir">/var/www/ayaville/ezpublish/cache/dev</parameter>
+    <parameter key="kernel.logs_dir">/var/www/ayaville/ezpublish/logs</parameter>
     <parameter key="kernel.bundles" type="collection">
       <parameter key="FrameworkBundle">Symfony\Bundle\FrameworkBundle\FrameworkBundle</parameter>
       <parameter key="SecurityBundle">Symfony\Bundle\SecurityBundle\SecurityBundle</parameter>
@@ -33,6 +33,7 @@
       <parameter key="KnpMenuBundle">Knp\Bundle\MenuBundle\KnpMenuBundle</parameter>
       <parameter key="OneupFlysystemBundle">Oneup\FlysystemBundle\OneupFlysystemBundle</parameter>
       <parameter key="aYalineHelloBundle">aYaline\HelloBundle\aYalineHelloBundle</parameter>
+      <parameter key="aYalineaYavilleBundle">aYaline\aYavilleBundle\aYalineaYavilleBundle</parameter>
       <parameter key="EzPublishDebugBundle">eZ\Bundle\EzPublishDebugBundle\EzPublishDebugBundle</parameter>
       <parameter key="WebProfilerBundle">Symfony\Bundle\WebProfilerBundle\WebProfilerBundle</parameter>
       <parameter key="SensioDistributionBundle">Sensio\Bundle\DistributionBundle\SensioDistributionBundle</parameter>
@@ -101,7 +102,7 @@
     <parameter key="debug.errors_logger_listener.class">Symfony\Component\HttpKernel\EventListener\ErrorsLoggerListener</parameter>
     <parameter key="debug.event_dispatcher.class">Symfony\Component\HttpKernel\Debug\TraceableEventDispatcher</parameter>
     <parameter key="debug.stopwatch.class">Symfony\Component\Stopwatch\Stopwatch</parameter>
-    <parameter key="debug.container.dump">/var/www/ezpublish/ezpublish/cache/dev/ezpublishDevDebugProjectContainer.xml</parameter>
+    <parameter key="debug.container.dump">/var/www/ayaville/ezpublish/cache/dev/ezpublishDevDebugProjectContainer.xml</parameter>
     <parameter key="debug.controller_resolver.class">Symfony\Component\HttpKernel\Controller\TraceableControllerResolver</parameter>
     <parameter key="debug.debug_handlers_listener.class">Symfony\Component\HttpKernel\EventListener\DebugHandlersListener</parameter>
     <parameter key="kernel.secret">b77af066f4a98c73649c30857ee81c77a388a9c3</parameter>
@@ -123,7 +124,7 @@
     <parameter key="session.storage.options" type="collection">
       <parameter key="gc_probability">1</parameter>
     </parameter>
-    <parameter key="session.save_path">/var/www/ezpublish/ezpublish/cache/dev/sessions</parameter>
+    <parameter key="session.save_path">/var/www/ayaville/ezpublish/cache/dev/sessions</parameter>
     <parameter key="session.metadata.update_threshold">0</parameter>
     <parameter key="security.secure_random.class">Symfony\Component\Security\Core\Util\SecureRandom</parameter>
     <parameter key="form.resolved_type_factory.class">Symfony\Component\Form\ResolvedFormTypeFactory</parameter>
@@ -202,7 +203,7 @@
     <parameter key="data_collector.form.extractor.class">Symfony\Component\Form\Extension\DataCollector\FormDataExtractor</parameter>
     <parameter key="profiler_listener.only_exceptions">false</parameter>
     <parameter key="profiler_listener.only_master_requests">false</parameter>
-    <parameter key="profiler.storage.dsn">file:/var/www/ezpublish/ezpublish/cache/dev/profiler</parameter>
+    <parameter key="profiler.storage.dsn">file:/var/www/ayaville/ezpublish/cache/dev/profiler</parameter>
     <parameter key="profiler.storage.username"></parameter>
     <parameter key="profiler.storage.password"></parameter>
     <parameter key="profiler.storage.lifetime">86400</parameter>
@@ -226,7 +227,7 @@
     <parameter key="router.request_context.host">localhost</parameter>
     <parameter key="router.request_context.scheme">http</parameter>
     <parameter key="router.request_context.base_url"></parameter>
-    <parameter key="router.resource">/var/www/ezpublish/ezpublish/cache/dev/assetic/routing.yml</parameter>
+    <parameter key="router.resource">/var/www/ayaville/ezpublish/cache/dev/assetic/routing.yml</parameter>
     <parameter key="router.cache_class_prefix">ezpublishDev</parameter>
     <parameter key="request_listener.http_port">80</parameter>
     <parameter key="request_listener.https_port">443</parameter>
@@ -340,7 +341,7 @@
       <parameter key="exception_controller">twig.controller.exception:showAction</parameter>
       <parameter key="autoescape_service">null</parameter>
       <parameter key="autoescape_service_method">null</parameter>
-      <parameter key="cache">/var/www/ezpublish/ezpublish/cache/dev/twig</parameter>
+      <parameter key="cache">/var/www/ayaville/ezpublish/cache/dev/twig</parameter>
       <parameter key="charset">UTF-8</parameter>
       <parameter key="paths" type="collection"/>
     </parameter>
@@ -410,7 +411,7 @@
     <parameter key="swiftmailer.mailer.default.transport.smtp.auth_mode">null</parameter>
     <parameter key="swiftmailer.mailer.default.transport.smtp.timeout">30</parameter>
     <parameter key="swiftmailer.mailer.default.transport.smtp.source_ip">null</parameter>
-    <parameter key="swiftmailer.spool.default.memory.path">/var/www/ezpublish/ezpublish/cache/dev/swiftmailer/spool/default</parameter>
+    <parameter key="swiftmailer.spool.default.memory.path">/var/www/ayaville/ezpublish/cache/dev/swiftmailer/spool/default</parameter>
     <parameter key="swiftmailer.mailer.default.spool.enabled">true</parameter>
     <parameter key="swiftmailer.mailer.default.plugin.impersonate">null</parameter>
     <parameter key="swiftmailer.mailer.default.single_address">null</parameter>
@@ -435,7 +436,7 @@
     <parameter key="assetic.worker.cache_busting.class">Assetic\Factory\Worker\CacheBustingWorker</parameter>
     <parameter key="assetic.value_supplier.class">Symfony\Bundle\AsseticBundle\DefaultValueSupplier</parameter>
     <parameter key="assetic.node.paths" type="collection"/>
-    <parameter key="assetic.cache_dir">/var/www/ezpublish/ezpublish/cache/dev/assetic</parameter>
+    <parameter key="assetic.cache_dir">/var/www/ayaville/ezpublish/cache/dev/assetic</parameter>
     <parameter key="assetic.bundles" type="collection">
       <parameter>eZDemoBundle</parameter>
     </parameter>
@@ -447,8 +448,8 @@
     <parameter key="assetic.debug">true</parameter>
     <parameter key="assetic.use_controller">true</parameter>
     <parameter key="assetic.enable_profiler">false</parameter>
-    <parameter key="assetic.read_from">/var/www/ezpublish/ezpublish/../web</parameter>
-    <parameter key="assetic.write_to">/var/www/ezpublish/ezpublish/../web</parameter>
+    <parameter key="assetic.read_from">/var/www/ayaville/ezpublish/../web</parameter>
+    <parameter key="assetic.write_to">/var/www/ayaville/ezpublish/../web</parameter>
     <parameter key="assetic.variables" type="collection"/>
     <parameter key="assetic.java.bin">/usr/bin/java</parameter>
     <parameter key="assetic.node.bin">/usr/bin/node</parameter>
@@ -544,7 +545,7 @@
         <parameter key="Ephemeral" type="collection"/>
         <parameter key="FileSystem" type="collection">
           <parameter key="dirSplit">2</parameter>
-          <parameter key="path">/var/www/ezpublish/ezpublish/cache/dev/stash</parameter>
+          <parameter key="path">/var/www/ayaville/ezpublish/cache/dev/stash</parameter>
           <parameter key="filePermissions">432</parameter>
           <parameter key="dirPermissions">504</parameter>
           <parameter key="memKeyLimit">200</parameter>
@@ -639,7 +640,7 @@
     <parameter key="ezpublish.user.identity.class">eZ\Publish\Core\MVC\Symfony\Security\User\Identity</parameter>
     <parameter key="ezpublish.user.hash_generator.class">eZ\Publish\Core\MVC\Symfony\Security\User\HashGenerator</parameter>
     <parameter key="ezpublish.user.identity_definer.role_id.class">eZ\Publish\Core\MVC\Symfony\Security\User\ContextProvider\RoleContextProvider</parameter>
-    <parameter key="webroot_dir">/var/www/ezpublish/ezpublish/../web</parameter>
+    <parameter key="webroot_dir">/var/www/ayaville/ezpublish/../web</parameter>
     <parameter key="ezsettings.default.location_view" type="collection">
       <parameter key="gallery_viewer" type="collection">
         <parameter key="image" type="collection">
@@ -896,7 +897,7 @@
     <parameter key="ezsettings.default.io.binarydata_handler">default</parameter>
     <parameter key="ezsettings.default.io.url_prefix">var/storage</parameter>
     <parameter key="ezsettings.default.io.legacy_url_prefix">var/storage</parameter>
-    <parameter key="ezsettings.default.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/storage</parameter>
+    <parameter key="ezsettings.default.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/storage</parameter>
     <parameter key="ezsettings.default.content.view_cache">true</parameter>
     <parameter key="ezsettings.default.content.ttl_cache">true</parameter>
     <parameter key="ezsettings.default.content.default_ttl">60</parameter>
@@ -904,23 +905,23 @@
     <parameter key="ezsettings.default.content.tree_root.excluded_uri_prefixes" type="collection"/>
     <parameter key="ezsettings.default.fieldtypes.ezxml.custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.default.fieldtypes.ezrichtext.output_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.default.fieldtypes.ezrichtext.edit_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
@@ -3169,23 +3170,23 @@
     <parameter key="ezpublish.api.storage_engine.transformation_converter.class">eZ\Publish\Core\Persistence\Utf8Converter</parameter>
     <parameter key="ezpublish.api.storage_engine.transformation_parser.class">eZ\Publish\Core\Persistence\TransformationProcessor\DefinitionBased\Parser</parameter>
     <parameter key="ezpublish.api.storage_engine.transformation_rules.resources" type="collection">
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr</parameter>
     </parameter>
     <parameter key="ezpublish.api.storage_engine.transformation_processor.class">eZ\Publish\Core\Persistence\TransformationProcessor\PreprocessedBased</parameter>
     <parameter key="ezpublish.api.storage_engine.preprocessed_transformation_rules.resources" type="collection">
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr.result</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr.result</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr.result</parameter>
     </parameter>
     <parameter key="ezpublish.cache_pool.class">Stash\Pool</parameter>
     <parameter key="ezpublish.cache_pool.spi.cache.decorator.class">eZ\Publish\Core\Persistence\Cache\CacheServiceDecorator</parameter>
@@ -3375,7 +3376,7 @@
     <parameter key="ezpublish.core.io.url_decorator.prefix.class">eZ\Publish\Core\IO\UrlDecorator\Prefix</parameter>
     <parameter key="ezpublish.core.io.url_decorator.absolute_prefix.class">eZ\Publish\Core\IO\UrlDecorator\AbsolutePrefix</parameter>
     <parameter key="ezpublish.core.io.image_fieldtype.legacy_url_redecorator.class">eZ\Publish\Core\IO\UrlRedecorator</parameter>
-    <parameter key="ezpublish.kernel.root_dir">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel</parameter>
+    <parameter key="ezpublish.kernel.root_dir">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel</parameter>
     <parameter key="ezpublish.api.repository.lazy_factory.class">eZ\Bundle\EzPublishCoreBundle\ApiLoader\LazyRepositoryFactory</parameter>
     <parameter key="ezpublish.api.storage_engine.factory.class">eZ\Bundle\EzPublishCoreBundle\ApiLoader\StorageEngineFactory</parameter>
     <parameter key="ezpublish.signalslot.event_converter_slot.class">eZ\Bundle\EzPublishCoreBundle\SignalSlot\Slot\SymfonyEventConverterSlot</parameter>
@@ -3391,7 +3392,7 @@
     <parameter key="ezpublish.fieldtype.ezpage.zone.class">eZ\Publish\Core\FieldType\Page\Parts\Zone</parameter>
     <parameter key="ezpublish.fieldtype.ezpage.hashconverter.class">eZ\Publish\Core\FieldType\Page\HashConverter</parameter>
     <parameter key="ezpublish.fieldtype.ezxmltext.converter.html5.class">eZ\Bundle\EzPublishCoreBundle\FieldType\XmlText\Converter\Html5</parameter>
-    <parameter key="ezpublish.fieldtype.ezxmltext.converter.html5.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5.xsl</parameter>
+    <parameter key="ezpublish.fieldtype.ezxmltext.converter.html5.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5.xsl</parameter>
     <parameter key="ezpublish.fieldtype.ezxmltext.converter.embedtohtml5.class">eZ\Publish\Core\FieldType\XmlText\Converter\EmbedToHtml5</parameter>
     <parameter key="ezpublish.fieldtype.ezxmltext.converter.embedtohtml5.excludedattributes" type="collection">
       <parameter>view</parameter>
@@ -3415,20 +3416,20 @@
     <parameter key="ezpublish.fieldtype.ezrichtext.converter.dispatcher.class">eZ\Publish\Core\FieldType\RichText\ConverterDispatcher</parameter>
     <parameter key="ezpublish.fieldtype.ezrichtext.validator.xml.class">eZ\Publish\Core\FieldType\RichText\Validator</parameter>
     <parameter key="ezpublish.fieldtype.ezrichtext.validator.dispatcher.class">eZ\Publish\Core\FieldType\RichText\ValidatorDispatcher</parameter>
-    <parameter key="ezpublish.fieldtype.ezrichtext.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources</parameter>
-    <parameter key="ezpublish.fieldtype.ezrichtext.converter.input.ezxml.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/ezxml/docbook/core.xsl</parameter>
-    <parameter key="ezpublish.fieldtype.ezrichtext.converter.input.xhtml5.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/edit/docbook.xsl</parameter>
-    <parameter key="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</parameter>
-    <parameter key="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.fragment.resources">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/output/fragment.xsl</parameter>
+    <parameter key="ezpublish.fieldtype.ezrichtext.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources</parameter>
+    <parameter key="ezpublish.fieldtype.ezrichtext.converter.input.ezxml.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/ezxml/docbook/core.xsl</parameter>
+    <parameter key="ezpublish.fieldtype.ezrichtext.converter.input.xhtml5.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/edit/docbook.xsl</parameter>
+    <parameter key="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</parameter>
+    <parameter key="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.fragment.resources">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/output/fragment.xsl</parameter>
     <parameter key="ezpublish.fieldtype.ezrichtext.validator.docbook.resources" type="collection">
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/ezpublish.rng</parameter>
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/docbook.iso.sch.xsl</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/ezpublish.rng</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/docbook.iso.sch.xsl</parameter>
     </parameter>
     <parameter key="ezpublish.fieldtype.ezrichtext.validator.input.ezxhtml5.resources" type="collection">
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/edit/ezxhtml5.xsd</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/edit/ezxhtml5.xsd</parameter>
     </parameter>
     <parameter key="ezpublish.fieldtype.ezrichtext.validator.output.ezxhtml5.resources" type="collection">
-      <parameter>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/output/ezxhtml5.xsd</parameter>
+      <parameter>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/output/ezxhtml5.xsd</parameter>
     </parameter>
     <parameter key="ezpublish.fieldtype.ezimage.pathgenerator.class">eZ\Publish\Core\FieldType\Image\PathGenerator\LegacyPathGenerator</parameter>
     <parameter key="ezpublish.fieldtype.ezimage.io_service.options_provider.class">eZ\Publish\Core\FieldType\Image\IO\OptionsProvider</parameter>
@@ -3468,7 +3469,7 @@
     <parameter key="ezpublish.http_cache.purger.instant.class">eZ\Bundle\EzPublishCoreBundle\Cache\Http\InstantCachePurger</parameter>
     <parameter key="ezpublish.http_cache.purge_client.local.class">eZ\Publish\Core\MVC\Symfony\Cache\Http\LocalPurgeClient</parameter>
     <parameter key="ezpublish.http_cache.store.class">eZ\Publish\Core\MVC\Symfony\Cache\Http\LocationAwareStore</parameter>
-    <parameter key="ezpublish.http_cache.store.root">/var/www/ezpublish/ezpublish/cache/dev/http_cache</parameter>
+    <parameter key="ezpublish.http_cache.store.root">/var/www/ayaville/ezpublish/cache/dev/http_cache</parameter>
     <parameter key="ezpublish.http_cache.cache_manager.class">FOS\HttpCacheBundle\CacheManager</parameter>
     <parameter key="ezpublish.http_cache.proxy_client.varnish.factory.class">eZ\Bundle\EzPublishCoreBundle\Cache\Http\VarnishProxyClientFactory</parameter>
     <parameter key="ezpublish.http_cache.purge_client.fos.class">eZ\Publish\Core\MVC\Symfony\Cache\Http\FOSPurgeClient</parameter>
@@ -6555,49 +6556,49 @@
     <parameter key="ezsettings.fre.session_name">eZSESSID</parameter>
     <parameter key="ezsettings.ezdemo.fieldtypes.ezrichtext.output_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.eng.fieldtypes.ezrichtext.output_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.fre.fieldtypes.ezrichtext.output_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.ezdemo_admin.fieldtypes.ezrichtext.output_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.ezdemo.fieldtypes.ezrichtext.edit_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.eng.fieldtypes.ezrichtext.edit_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.fre.fieldtypes.ezrichtext.edit_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.ezdemo_admin.fieldtypes.ezrichtext.edit_custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/edit/core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
@@ -6607,59 +6608,59 @@
     <parameter key="ezsettings.ezdemo_admin.fieldtypes.ezrichtext.input_custom_xsl" type="collection"/>
     <parameter key="ezsettings.ezdemo.fieldtypes.ezxml.custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.eng.fieldtypes.ezxml.custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.fre.fieldtypes.ezxml.custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.ezdemo_admin.fieldtypes.ezxml.custom_xsl" type="collection">
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_core.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
       <parameter type="collection">
-        <parameter key="path">/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
+        <parameter key="path">/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5_custom.xsl</parameter>
         <parameter key="priority">0</parameter>
       </parameter>
     </parameter>
     <parameter key="ezsettings.ezdemo_site_group.io.url_prefix">var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo_site_group.io.legacy_url_prefix">var/ezdemo_site/storage</parameter>
-    <parameter key="ezsettings.ezdemo_site_group.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
+    <parameter key="ezsettings.ezdemo_site_group.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo.io.url_prefix">var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo.io.legacy_url_prefix">var/ezdemo_site/storage</parameter>
-    <parameter key="ezsettings.ezdemo.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
+    <parameter key="ezsettings.ezdemo.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.eng.io.url_prefix">var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.eng.io.legacy_url_prefix">var/ezdemo_site/storage</parameter>
-    <parameter key="ezsettings.eng.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
+    <parameter key="ezsettings.eng.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.fre.io.url_prefix">var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.fre.io.legacy_url_prefix">var/ezdemo_site/storage</parameter>
-    <parameter key="ezsettings.fre.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
+    <parameter key="ezsettings.fre.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo_admin.io.url_prefix">var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo_admin.io.legacy_url_prefix">var/ezdemo_site/storage</parameter>
-    <parameter key="ezsettings.ezdemo_admin.io.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
+    <parameter key="ezsettings.ezdemo_admin.io.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy/var/ezdemo_site/storage</parameter>
     <parameter key="ezsettings.ezdemo.related_siteaccesses" type="collection">
       <parameter>ezdemo</parameter>
       <parameter>eng</parameter>
@@ -6753,7 +6754,7 @@
     <parameter key="ezpublish_legacy.security.login_cleanup_listener.class">eZ\Publish\Core\MVC\Legacy\Security\Firewall\LoginCleanupListener</parameter>
     <parameter key="ezpublish_legacy.security_mapper.class">eZ\Bundle\EzPublishLegacyBundle\LegacyMapper\Security</parameter>
     <parameter key="ezpublish_legacy.security.sso_firewall_listener.class">eZ\Publish\Core\MVC\Legacy\Security\Firewall\SSOListener</parameter>
-    <parameter key="ezpublish_legacy.root_dir">/var/www/ezpublish/ezpublish/../ezpublish_legacy</parameter>
+    <parameter key="ezpublish_legacy.root_dir">/var/www/ayaville/ezpublish/../ezpublish_legacy</parameter>
     <parameter key="ezpublish_legacy.twig.extension.class">eZ\Publish\Core\MVC\Legacy\Templating\Twig\Extension\LegacyExtension</parameter>
     <parameter key="ezpublish_legacy.twig.extension.template.js">EzPublishLegacyBundle::ez_legacy_render_js.html.twig</parameter>
     <parameter key="ezpublish_legacy.twig.extension.template.css">EzPublishLegacyBundle::ez_legacy_render_css.html.twig</parameter>
@@ -7345,7 +7346,7 @@
               <service class="Symfony\Bundle\FrameworkBundle\CacheWarmer\TemplateFinder" public="false">
                 <argument type="service" id="kernel"/>
                 <argument type="service" id="templating.filename_parser"/>
-                <argument>/var/www/ezpublish/ezpublish/Resources</argument>
+                <argument>/var/www/ayaville/ezpublish/Resources</argument>
               </service>
             </argument>
             <argument type="service" id="templating.locator"/>
@@ -7371,7 +7372,7 @@
               <service class="Symfony\Bundle\FrameworkBundle\CacheWarmer\TemplateFinder" public="false">
                 <argument type="service" id="kernel"/>
                 <argument type="service" id="templating.filename_parser"/>
-                <argument>/var/www/ezpublish/ezpublish/Resources</argument>
+                <argument>/var/www/ayaville/ezpublish/Resources</argument>
               </service>
             </argument>
           </service>
@@ -7391,7 +7392,7 @@
     <service id="filesystem" class="Symfony\Component\Filesystem\Filesystem"/>
     <service id="file_locator" class="Symfony\Component\HttpKernel\Config\FileLocator">
       <argument type="service" id="kernel"/>
-      <argument>/var/www/ezpublish/ezpublish/Resources</argument>
+      <argument>/var/www/ayaville/ezpublish/Resources</argument>
     </service>
     <service id="uri_signer" class="Symfony\Component\HttpKernel\UriSigner">
       <argument>b77af066f4a98c73649c30857ee81c77a388a9c3</argument>
@@ -7509,7 +7510,7 @@
         </argument>
       </argument>
       <argument type="collection">
-        <argument key="cache_dir">/var/www/ezpublish/ezpublish/cache/dev/translations</argument>
+        <argument key="cache_dir">/var/www/ayaville/ezpublish/cache/dev/translations</argument>
         <argument key="debug">true</argument>
       </argument>
     </service>
@@ -8021,7 +8022,7 @@
     </service>
     <service id="security.secure_random" class="Symfony\Component\Security\Core\Util\SecureRandom">
       <tag name="monolog.logger" channel="security"/>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/secure_random.seed</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/secure_random.seed</argument>
       <argument type="service" id="monolog.logger.security" on-invalid="ignore"/>
     </service>
     <service id="form.resolved_type_factory" class="Symfony\Component\Form\Extension\DataCollector\Proxy\ResolvedTypeFactoryDataCollectorProxy">
@@ -8236,7 +8237,7 @@
     <service id="templating.filename_parser" class="Symfony\Bundle\FrameworkBundle\Templating\TemplateFilenameParser"/>
     <service id="templating.locator" class="Symfony\Bundle\FrameworkBundle\Templating\Loader\TemplateLocator" public="false">
       <argument type="service" id="file_locator"/>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev</argument>
     </service>
     <service id="templating.helper.slots" class="Symfony\Component\Templating\Helper\SlotsHelper">
       <tag name="templating.helper" alias="slots"/>
@@ -8274,7 +8275,7 @@
     <service id="templating.helper.code" class="Symfony\Bundle\FrameworkBundle\Templating\Helper\CodeHelper">
       <tag name="templating.helper" alias="code"/>
       <argument>null</argument>
-      <argument>/var/www/ezpublish/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
       <argument>UTF-8</argument>
     </service>
     <service id="templating.helper.translator" class="Symfony\Bundle\FrameworkBundle\Templating\Helper\TranslatorHelper">
@@ -8326,7 +8327,7 @@
       </call>
       <call method="addXmlMappings">
         <argument type="collection">
-          <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Component/Form/Resources/config/validation.xml</argument>
+          <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Component/Form/Resources/config/validation.xml</argument>
         </argument>
       </call>
       <call method="enableAnnotationMapping">
@@ -8369,7 +8370,7 @@
       <tag name="monolog.logger" channel="profiler"/>
       <argument type="service">
         <service class="Symfony\Component\HttpKernel\Profiler\FileProfilerStorage" public="false">
-          <argument>file:/var/www/ezpublish/ezpublish/cache/dev/profiler</argument>
+          <argument>file:/var/www/ayaville/ezpublish/cache/dev/profiler</argument>
           <argument></argument>
           <argument></argument>
           <argument>86400</argument>
@@ -8576,9 +8577,9 @@
       <tag name="monolog.logger" channel="router"/>
       <tag name="router" priority="255"/>
       <argument type="service" id="service_container"/>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/assetic/routing.yml</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/assetic/routing.yml</argument>
       <argument type="collection">
-        <argument key="cache_dir">/var/www/ezpublish/ezpublish/cache/dev</argument>
+        <argument key="cache_dir">/var/www/ayaville/ezpublish/cache/dev</argument>
         <argument key="debug">true</argument>
         <argument key="generator_class">Symfony\Component\Routing\Generator\UrlGenerator</argument>
         <argument key="generator_base_class">Symfony\Component\Routing\Generator\UrlGenerator</argument>
@@ -8674,7 +8675,7 @@
         </argument>
         <argument type="service">
           <service class="eZ\Publish\Core\MVC\Symfony\Security\Authentication\AnonymousAuthenticationProvider" public="false">
-            <argument>55119c70ec123</argument>
+            <argument>552b8311bcbc1</argument>
             <call method="setRepository">
               <argument type="service" id="ezpublish.signalslot.repository"/>
             </call>
@@ -8685,7 +8686,7 @@
         </argument>
         <argument type="service">
           <service class="eZ\Publish\Core\MVC\Symfony\Security\Authentication\AnonymousAuthenticationProvider" public="false">
-            <argument>55119c70ec123</argument>
+            <argument>552b8311bcbc1</argument>
             <call method="setRepository">
               <argument type="service" id="ezpublish.signalslot.repository"/>
             </call>
@@ -8970,7 +8971,7 @@
         <argument type="service">
           <service class="Symfony\Component\Security\Http\Firewall\AnonymousAuthenticationListener" public="false">
             <argument type="service" id="security.context"/>
-            <argument>55119c70ec123</argument>
+            <argument>552b8311bcbc1</argument>
             <argument type="service" id="monolog.logger.security" on-invalid="null"/>
           </service>
         </argument>
@@ -9013,7 +9014,7 @@
         <argument type="service">
           <service class="Symfony\Component\Security\Http\Firewall\AnonymousAuthenticationListener" public="false">
             <argument type="service" id="security.context"/>
-            <argument>55119c70ec123</argument>
+            <argument>552b8311bcbc1</argument>
             <argument type="service" id="monolog.logger.security" on-invalid="null"/>
           </service>
         </argument>
@@ -9041,7 +9042,7 @@
         <argument key="exception_controller">twig.controller.exception:showAction</argument>
         <argument key="autoescape_service">null</argument>
         <argument key="autoescape_service_method">null</argument>
-        <argument key="cache">/var/www/ezpublish/ezpublish/cache/dev/twig</argument>
+        <argument key="cache">/var/www/ayaville/ezpublish/cache/dev/twig</argument>
         <argument key="charset">UTF-8</argument>
         <argument key="paths" type="collection"/>
       </argument>
@@ -9091,7 +9092,7 @@
           <service class="Symfony\Bridge\Twig\Extension\CodeExtension" public="false">
             <tag name="twig.extension"/>
             <argument>null</argument>
-            <argument>/var/www/ezpublish/ezpublish</argument>
+            <argument>/var/www/ayaville/ezpublish</argument>
             <argument>UTF-8</argument>
           </service>
         </argument>
@@ -9271,7 +9272,7 @@
       <argument>true</argument>
     </service>
     <service id="monolog.handler.main" class="Monolog\Handler\StreamHandler">
-      <argument>/var/www/ezpublish/ezpublish/logs/dev.log</argument>
+      <argument>/var/www/ayaville/ezpublish/logs/dev.log</argument>
       <argument>100</argument>
       <argument>true</argument>
     </service>
@@ -9316,7 +9317,7 @@
             </argument>
             <argument type="service">
               <service class="Assetic\Cache\ConfigCache" public="false">
-                <argument>/var/www/ezpublish/ezpublish/cache/dev/assetic/config</argument>
+                <argument>/var/www/ayaville/ezpublish/cache/dev/assetic/config</argument>
               </service>
             </argument>
             <argument>true</argument>
@@ -9334,7 +9335,7 @@
                 <service class="%assetic.directory_resource.class%" public="false">
                   <argument type="service" id="templating.loader"/>
                   <argument>eZDemoBundle</argument>
-                  <argument>/var/www/ezpublish/ezpublish/Resources/eZDemoBundle/views</argument>
+                  <argument>/var/www/ayaville/ezpublish/Resources/eZDemoBundle/views</argument>
                   <argument>/\.[^.]+\.eztpl$/</argument>
                 </service>
               </argument>
@@ -9342,7 +9343,7 @@
                 <service class="%assetic.directory_resource.class%" public="false">
                   <argument type="service" id="templating.loader"/>
                   <argument>eZDemoBundle</argument>
-                  <argument>/var/www/ezpublish/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
+                  <argument>/var/www/ayaville/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
                   <argument>/\.[^.]+\.eztpl$/</argument>
                 </service>
               </argument>
@@ -9361,7 +9362,7 @@
                 <service class="%assetic.directory_resource.class%" public="false">
                   <argument type="service" id="templating.loader"/>
                   <argument>eZDemoBundle</argument>
-                  <argument>/var/www/ezpublish/ezpublish/Resources/eZDemoBundle/views</argument>
+                  <argument>/var/www/ayaville/ezpublish/Resources/eZDemoBundle/views</argument>
                   <argument>/\.[^.]+\.twig$/</argument>
                 </service>
               </argument>
@@ -9369,7 +9370,7 @@
                 <service class="%assetic.directory_resource.class%" public="false">
                   <argument type="service" id="templating.loader"/>
                   <argument>eZDemoBundle</argument>
-                  <argument>/var/www/ezpublish/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
+                  <argument>/var/www/ayaville/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
                   <argument>/\.[^.]+\.twig$/</argument>
                 </service>
               </argument>
@@ -9385,7 +9386,7 @@
             <tag name="assetic.formula_resource" loader="eztpl"/>
             <argument type="service" id="templating.loader"/>
             <argument></argument>
-            <argument>/var/www/ezpublish/ezpublish/Resources/views</argument>
+            <argument>/var/www/ayaville/ezpublish/Resources/views</argument>
             <argument>/\.[^.]+\.eztpl$/</argument>
           </service>
         </argument>
@@ -9398,7 +9399,7 @@
             <tag name="assetic.formula_resource" loader="twig"/>
             <argument type="service" id="templating.loader"/>
             <argument></argument>
-            <argument>/var/www/ezpublish/ezpublish/Resources/views</argument>
+            <argument>/var/www/ayaville/ezpublish/Resources/views</argument>
             <argument>/\.[^.]+\.twig$/</argument>
           </service>
         </argument>
@@ -9411,7 +9412,7 @@
       <argument type="service">
         <service class="Symfony\Component\DependencyInjection\ParameterBag\ParameterBag" factory-method="getParameterBag" factory-service="service_container" public="false"/>
       </argument>
-      <argument>/var/www/ezpublish/ezpublish/../web</argument>
+      <argument>/var/www/ayaville/ezpublish/../web</argument>
       <argument>true</argument>
       <call method="addWorker">
         <argument type="service">
@@ -9438,7 +9439,7 @@
       <argument type="service" id="profiler" on-invalid="null"/>
     </service>
     <service id="assetic.cache" class="Assetic\Cache\FilesystemCache" public="false">
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/assetic/assets</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/assetic/assets</argument>
     </service>
     <service id="assetic.request_listener" class="Symfony\Bundle\AsseticBundle\EventListener\RequestListener">
       <tag name="kernel.event_listener" event="kernel.request" method="onKernelRequest"/>
@@ -9462,7 +9463,7 @@
         <argument key="host">localhost</argument>
         <argument key="user">root</argument>
         <argument key="password">pouf</argument>
-        <argument key="dbname">ezpublish5</argument>
+        <argument key="dbname">Collectivite_aYaville</argument>
         <argument key="charset">UTF8</argument>
         <argument key="port">3306</argument>
         <argument key="driverOptions" type="collection"/>
@@ -9561,7 +9562,7 @@
           <argument key="Ephemeral" type="collection"/>
           <argument key="FileSystem" type="collection">
             <argument key="dirSplit">2</argument>
-            <argument key="path">/var/www/ezpublish/ezpublish/cache/dev/stash</argument>
+            <argument key="path">/var/www/ayaville/ezpublish/cache/dev/stash</argument>
             <argument key="filePermissions">432</argument>
             <argument key="dirPermissions">504</argument>
             <argument key="memKeyLimit">200</argument>
@@ -9583,7 +9584,7 @@
         <argument key="Ephemeral" type="collection"/>
         <argument key="FileSystem" type="collection">
           <argument key="dirSplit">2</argument>
-          <argument key="path">/var/www/ezpublish/ezpublish/cache/dev/stash</argument>
+          <argument key="path">/var/www/ayaville/ezpublish/cache/dev/stash</argument>
           <argument key="filePermissions">432</argument>
           <argument key="dirPermissions">504</argument>
           <argument key="memKeyLimit">200</argument>
@@ -9607,9 +9608,9 @@
       <tag name="hateoas.url_generator" alias="templated_uri"/>
       <tag name="monolog.logger" channel="router"/>
       <argument type="service" id="service_container"/>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/assetic/routing.yml</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/assetic/routing.yml</argument>
       <argument type="collection">
-        <argument key="cache_dir">/var/www/ezpublish/ezpublish/cache/dev</argument>
+        <argument key="cache_dir">/var/www/ayaville/ezpublish/cache/dev</argument>
         <argument key="debug">true</argument>
         <argument key="generator_class">Hautelook\TemplatedUriRouter\Routing\Generator\Rfc6570Generator</argument>
         <argument key="generator_base_class">Hautelook\TemplatedUriRouter\Routing\Generator\Rfc6570Generator</argument>
@@ -9627,14 +9628,14 @@
       <tag name="liip_imagine.cache.resolver" resolver="default"/>
       <argument type="service" id="filesystem"/>
       <argument type="service" id="router.request_context"/>
-      <argument>/var/www/ezpublish/ezpublish/../web</argument>
+      <argument>/var/www/ayaville/ezpublish/../web</argument>
       <argument>media/cache</argument>
     </service>
     <service id="liip_imagine.binary.loader.default" class="Liip\ImagineBundle\Binary\Loader\FileSystemLoader">
       <tag name="liip_imagine.binary.loader" loader="default"/>
       <argument type="service" id="liip_imagine.mime_type_guesser"/>
       <argument type="service" id="liip_imagine.extension_guesser"/>
-      <argument>/var/www/ezpublish/ezpublish/../web</argument>
+      <argument>/var/www/ayaville/ezpublish/../web</argument>
     </service>
     <service id="liip_imagine.filter.manager" class="Liip\ImagineBundle\Imagine\Filter\FilterManager">
       <argument type="service" id="liip_imagine.filter.configuration"/>
@@ -9883,12 +9884,12 @@
     <service id="liip_imagine.filter.loader.paste" class="Liip\ImagineBundle\Imagine\Filter\Loader\PasteFilterLoader">
       <tag name="liip_imagine.filter.loader" loader="paste"/>
       <argument type="service" id="liip_imagine"/>
-      <argument>/var/www/ezpublish/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
     </service>
     <service id="liip_imagine.filter.loader.watermark" class="Liip\ImagineBundle\Imagine\Filter\Loader\WatermarkFilterLoader">
       <tag name="liip_imagine.filter.loader" loader="watermark"/>
       <argument type="service" id="liip_imagine"/>
-      <argument>/var/www/ezpublish/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
     </service>
     <service id="liip_imagine.filter.loader.background" class="Liip\ImagineBundle\Imagine\Filter\Loader\BackgroundFilterLoader">
       <tag name="liip_imagine.filter.loader" loader="background"/>
@@ -12682,13 +12683,13 @@
     <service id="ezpublish.api.storage_engine.transformation_processor" class="eZ\Publish\Core\Persistence\TransformationProcessor\PreprocessedBased">
       <argument type="service" id="ezpublish.api.storage_engine.pcre_compiler"/>
       <argument type="collection">
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr.result</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/ascii.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/basic.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/cyrillic.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/greek.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/hebrew.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/latin.tr.result</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/Persistence/Tests/TransformationProcessor/_fixtures/transformations/search.tr.result</argument>
       </argument>
     </service>
     <service id="ezpublish.cache_pool" class="Stash\Pool" factory-method="getCachePool" factory-service="ezpublish.cache_pool.factory">
@@ -14016,7 +14017,7 @@
     </service>
     <service id="ezpublish.fieldtype.ezpage.hashconverter" class="eZ\Publish\Core\FieldType\Page\HashConverter"/>
     <service id="ezpublish.fieldtype.ezxmltext.converter.html5" class="eZ\Bundle\EzPublishCoreBundle\FieldType\XmlText\Converter\Html5">
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/XmlText/Input/Resources/stylesheets/eZXml2Html5.xsl</argument>
       <argument type="service" id="ezpublish.config.resolver.chain"/>
       <call method="addPreConverter">
         <argument type="service" id="ezpublish.fieldtype.ezxmltext.converter.embedtohtml5"/>
@@ -14050,10 +14051,10 @@
       <tag name="ezpublish.ezxml.converter"/>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.input.ezxml" class="eZ\Publish\Core\FieldType\RichText\Converter\Xslt">
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/ezxml/docbook/core.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/ezxml/docbook/core.xsl</argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.input.xhtml5" class="eZ\Bundle\EzPublishCoreBundle\FieldType\RichText\Converter\Html5Input">
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/edit/docbook.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/edit/docbook.xsl</argument>
       <argument type="service" id="ezpublish.config.resolver.chain"/>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.input.dispatcher" class="eZ\Publish\Core\FieldType\RichText\ConverterDispatcher">
@@ -14090,12 +14091,12 @@
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.core" class="eZ\Bundle\EzPublishCoreBundle\FieldType\RichText\Converter\Html5">
       <tag name="ezpublish.ezrichtext.converter.output.xhtml5" priority="50"/>
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</argument>
       <argument type="service" id="ezpublish.config.resolver.chain"/>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5.fragment" class="eZ\Publish\Core\FieldType\RichText\Converter\Xslt">
       <tag name="ezpublish.ezrichtext.converter.output.xhtml5" priority="100"/>
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/output/fragment.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/xhtml5/output/fragment.xsl</argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.output.xhtml5" class="eZ\Publish\Core\FieldType\RichText\Converter\Aggregate">
       <argument type="collection">
@@ -14107,23 +14108,23 @@
       </argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.converter.edit.xhtml5" class="eZ\Bundle\EzPublishCoreBundle\FieldType\RichText\Converter\Html5Edit">
-      <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</argument>
+      <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/stylesheets/docbook/xhtml5/output/xhtml5.xsl</argument>
       <argument type="service" id="ezpublish.config.resolver.chain"/>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.validator.docbook" class="eZ\Publish\Core\FieldType\RichText\Validator">
       <argument type="collection">
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/ezpublish.rng</argument>
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/docbook.iso.sch.xsl</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/ezpublish.rng</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/docbook/docbook.iso.sch.xsl</argument>
       </argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.validator.input.ezxhtml5" class="eZ\Publish\Core\FieldType\RichText\Validator">
       <argument type="collection">
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/edit/ezxhtml5.xsd</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/edit/ezxhtml5.xsd</argument>
       </argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.validator.output.ezxhtml5" class="eZ\Publish\Core\FieldType\RichText\Validator">
       <argument type="collection">
-        <argument>/var/www/ezpublish/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/output/ezxhtml5.xsd</argument>
+        <argument>/var/www/ayaville/ezpublish/../vendor/ezsystems/ezpublish-kernel/eZ/Publish/Core/FieldType/RichText/Resources/schemas/ezxhtml5/output/ezxhtml5.xsd</argument>
       </argument>
     </service>
     <service id="ezpublish.fieldtype.ezrichtext.validator.dispatcher" class="eZ\Publish\Core\FieldType\RichText\ValidatorDispatcher">
@@ -14343,7 +14344,7 @@
       <argument type="service" id="ezpublish.http_cache.store"/>
     </service>
     <service id="ezpublish.http_cache.store" class="eZ\Publish\Core\MVC\Symfony\Cache\Http\LocationAwareStore">
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/http_cache</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/http_cache</argument>
     </service>
     <service id="ezpublish.http_cache.cache_manager" class="FOS\HttpCacheBundle\CacheManager">
       <argument type="service" id="fos_http_cache.proxy_client.varnish"/>
@@ -14502,8 +14503,8 @@
       <argument type="service" id="ezpublish_legacy.kernel_handler.web"/>
     </service>
     <service id="ezpublish_legacy.kernel.lazy_loader" class="eZ\Publish\Core\MVC\Legacy\Kernel\Loader">
-      <argument>/var/www/ezpublish/ezpublish/../ezpublish_legacy</argument>
-      <argument>/var/www/ezpublish/ezpublish/../web</argument>
+      <argument>/var/www/ayaville/ezpublish/../ezpublish_legacy</argument>
+      <argument>/var/www/ayaville/ezpublish/../web</argument>
       <argument type="service" id="debug.event_dispatcher"/>
       <argument type="service" id="ezpublish_legacy.uri_helper"/>
       <argument type="service" id="logger" on-invalid="ignore"/>
@@ -14670,7 +14671,7 @@
       <argument type="service" id="ezpublish_legacy.kernel.lazy"/>
       <argument type="service" id="ezpublish_legacy.configuration_mapper"/>
       <argument type="service" id="filesystem"/>
-      <argument>/var/www/ezpublish/ezpublish/../ezpublish_legacy</argument>
+      <argument>/var/www/ayaville/ezpublish/../ezpublish_legacy</argument>
       <argument type="service" id="ezpublish.siteaccess"/>
     </service>
     <service id="ezpublish_legacy.content_exception_handler" class="eZ\Publish\Core\MVC\Legacy\EventListener\APIContentExceptionListener">
@@ -14698,12 +14699,12 @@
         <argument>dev</argument>
         <argument>prod</argument>
       </argument>
-      <argument>/var/www/ezpublish/ezpublish</argument>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev</argument>
       <argument type="service" id="ezpublish_legacy.webconfigurator"/>
     </service>
     <service id="ezpublish_legacy.webconfigurator" class="Sensio\Bundle\DistributionBundle\Configurator\Configurator" factory-method="buildWebConfigurator" factory-service="ezpublish_legacy.webconfigurator.factory">
-      <argument>/var/www/ezpublish/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
     </service>
     <service id="ezpublish_legacy.webconfigurator.factory" class="eZ\Bundle\EzPublishLegacyBundle\SetupWizard\ConfiguratorFactory"/>
     <service id="ezpublish_legacy.fieldtype.ezimage.variation_service" class="eZ\Publish\Core\MVC\Legacy\Image\AliasGenerator">
@@ -17757,9 +17758,9 @@
     </service>
     <service id="ezpublish_rest.templated_router" class="eZ\Bundle\EzPublishCoreBundle\Routing\DefaultRouter">
       <argument type="service" id="service_container"/>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/assetic/routing.yml</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/assetic/routing.yml</argument>
       <argument type="collection">
-        <argument key="cache_dir">/var/www/ezpublish/ezpublish/cache/dev</argument>
+        <argument key="cache_dir">/var/www/ayaville/ezpublish/cache/dev</argument>
         <argument key="debug">true</argument>
         <argument key="generator_class">Hautelook\TemplatedUriRouter\Routing\Generator\Rfc6570Generator</argument>
         <argument key="generator_base_class">Hautelook\TemplatedUriRouter\Routing\Generator\Rfc6570Generator</argument>
@@ -19881,7 +19882,7 @@
       <argument type="service" id="ezpublish.chain_router" on-invalid="ignore"/>
     </service>
     <service id="sensio_distribution.webconfigurator" class="Sensio\Bundle\DistributionBundle\Configurator\Configurator">
-      <argument>/var/www/ezpublish/ezpublish</argument>
+      <argument>/var/www/ayaville/ezpublish</argument>
       <call method="addStep">
         <argument type="service">
           <service class="Sensio\Bundle\DistributionBundle\Configurator\Step\DoctrineStep" public="false">
@@ -20091,7 +20092,7 @@
       <argument>null</argument>
     </service>
     <service id="session.storage.filesystem" class="Symfony\Component\HttpFoundation\Session\Storage\MockFileSessionStorage">
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/sessions</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/sessions</argument>
       <argument>MOCKSESSID</argument>
       <argument type="service" id="session.storage.metadata_bag"/>
     </service>
@@ -20141,7 +20142,7 @@
       <argument type="service">
         <service class="Doctrine\Common\Annotations\AnnotationReader" public="false"/>
       </argument>
-      <argument>/var/www/ezpublish/ezpublish/cache/dev/annotations</argument>
+      <argument>/var/www/ayaville/ezpublish/cache/dev/annotations</argument>
       <argument>true</argument>
     </service>
     <service id="security.encoder_factory" class="Symfony\Component\Security\Core\Encoder\EncoderFactory">
@@ -20155,74 +20156,78 @@
             <argument type="service" id="templating.locator"/>
             <argument type="service" id="templating.name_parser"/>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/views</argument>
               <argument>Framework</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Resources/views</argument>
               <argument>Security</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views</argument>
               <argument>Twig</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle/Resources/views</argument>
               <argument>Swiftmailer</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/doctrine/doctrine-bundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/doctrine/doctrine-bundle/Resources/views</argument>
               <argument>Doctrine</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/tedivm/stash-bundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/tedivm/stash-bundle/Resources/views</argument>
               <argument>TedivmStash</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/liip/imagine-bundle/Liip/ImagineBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/liip/imagine-bundle/Liip/ImagineBundle/Resources/views</argument>
               <argument>LiipImagine</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishCoreBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishCoreBundle/Resources/views</argument>
               <argument>EzPublishCore</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishLegacyBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishLegacyBundle/Resources/views</argument>
               <argument>EzPublishLegacy</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/ezsystems/demobundle/EzSystems/DemoBundle/Resources/views</argument>
               <argument>eZDemo</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/ezsystems/comments-bundle/EzSystems/CommentsBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/ezsystems/comments-bundle/EzSystems/CommentsBundle/Resources/views</argument>
               <argument>EzSystemsComments</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/whiteoctober/breadcrumbs-bundle/WhiteOctober/BreadcrumbsBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/whiteoctober/breadcrumbs-bundle/WhiteOctober/BreadcrumbsBundle/Resources/views</argument>
               <argument>WhiteOctoberBreadcrumbs</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/src/aYaline/HelloBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/src/aYaline/HelloBundle/Resources/views</argument>
               <argument>aYalineHello</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishDebugBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/src/aYaline/aYavilleBundle/Resources/views</argument>
+              <argument>aYalineaYaville</argument>
+            </call>
+            <call method="addPath">
+              <argument>/var/www/ayaville/vendor/ezsystems/ezpublish-kernel/eZ/Bundle/EzPublishDebugBundle/Resources/views</argument>
               <argument>EzPublishDebug</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views</argument>
               <argument>WebProfiler</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/Resources/views</argument>
               <argument>SensioDistribution</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form</argument>
+              <argument>/var/www/ayaville/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form</argument>
             </call>
             <call method="addPath">
-              <argument>/var/www/ezpublish/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views</argument>
+              <argument>/var/www/ayaville/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views</argument>
             </call>
           </service>
         </argument>

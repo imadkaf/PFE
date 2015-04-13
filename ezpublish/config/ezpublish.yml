@@ -6,7 +6,7 @@ doctrine:
                 host: localhost
                 user: root
                 password: pouf
-                dbname: ezpublish5
+                dbname: Collectivite_aYaville
                 charset: UTF8
                 port: '3306'
 ezpublish:

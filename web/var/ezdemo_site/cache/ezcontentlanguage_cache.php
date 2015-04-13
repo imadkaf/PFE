@@ -1,1 +1,0 @@
-a:2:{i:0;O:17:"eZContentLanguage":5:{s:19:"PersistentDataDirty";b:0;s:2:"ID";s:1:"2";s:4:"Name";s:24:"English (United Kingdom)";s:6:"Locale";s:6:"eng-GB";s:8:"Disabled";s:1:"0";}i:1;O:17:"eZContentLanguage":5:{s:19:"PersistentDataDirty";b:0;s:2:"ID";s:1:"4";s:4:"Name";s:15:"French (France)";s:6:"Locale";s:6:"fre-FR";s:8:"Disabled";s:1:"0";}}

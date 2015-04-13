@@ -77,6 +77,7 @@ class EzPublishKernel extends Kernel
             new KnpMenuBundle(),
             new OneupFlysystemBundle(),
             new aYaline\HelloBundle\aYalineHelloBundle(),
+            new aYaline\aYavilleBundle\aYalineaYavilleBundle(),
         );
 
         switch ( $this->getEnvironment() )

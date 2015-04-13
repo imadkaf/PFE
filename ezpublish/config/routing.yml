@@ -1,3 +1,7 @@
+a_yalinea_yaville:
+    resource: "@aYalineaYavilleBundle/Resources/config/routing.yml"
+    prefix:   /
+
 a_yaline_hello:
     resource: "@aYalineHelloBundle/Resources/config/routing.yml"
     prefix:   /

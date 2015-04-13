@@ -244,6 +244,16 @@ class ezpublishDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redi
 
         }
 
+        // a_yalinea_yaville_homepage
+        if (0 === strpos($pathinfo, '/hello') && preg_match('#^/hello/(?P<name>[^/]++)$#s', $pathinfo, $matches)) {
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'a_yalinea_yaville_homepage')), array (  '_controller' => 'aYaline\\aYavilleBundle\\Controller\\DefaultController::indexAction',));
+        }
+
+        // a_yalinea_yaville_layout
+        if ($pathinfo === '/footer') {
+            return array (  '_controller' => 'aYaline\\aYavilleBundle\\Controller\\DefaultController::layoutAction',  '_route' => 'a_yalinea_yaville_layout',);
+        }
+
         // a_yaline_hello_homepage
         if (0 === strpos($pathinfo, '/hello') && preg_match('#^/hello/(?P<name>[^/]++)$#s', $pathinfo, $matches)) {
             return $this->mergeDefaults(array_replace($matches, array('_route' => 'a_yaline_hello_homepage')), array (  '_controller' => 'aYaline\\HelloBundle\\Controller\\DefaultController::indexAction',));
